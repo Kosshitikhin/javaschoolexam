@@ -1,4 +1,4 @@
-import com.tsystems.javaschool.tasks.pyramid.CannotBuildPyramidException;
+package com.tsystems.javaschool.tasks.pyramid;
 
 import java.util.Arrays;
 import java.util.List;
